@@ -19,19 +19,25 @@ Multi step form created using React.js and Material UI.
 # Showcase:
 
 1. First empty section:
+
 ![First Empty](https://github.com/Maceina/Multi-Step-Form-React/blob/master/form/images/pirmas%20tuscias.png?raw=true)
 
 2. First filled section:
+
 ![First Filled](https://github.com/Maceina/Multi-Step-Form-React/blob/master/form/images/pirmas%20pilnas.png?raw=true)
 
 3. Second empty section:
+
 ![Second Empty](https://github.com/Maceina/Multi-Step-Form-React/blob/master/form/images/antras%20tuscias.png?raw=true)
 
 4. Second filled section:
+
 ![Second Filled](https://github.com/Maceina/Multi-Step-Form-React/blob/master/form/images/antras%20pilnas.png?raw=true)
 
 5. Check and confirm data:
+
 ![Check and Confirm](https://github.com/Maceina/Multi-Step-Form-React/blob/master/form/images/confirm%20inputed%20data.png?raw=true)
 
 6. Submission:
+
 ![Submission](https://github.com/Maceina/Multi-Step-Form-React/blob/master/form/images/submission.png?raw=true)
