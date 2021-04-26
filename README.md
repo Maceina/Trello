@@ -2,6 +2,15 @@
 
 This is a clone of popular project management application Trello (Listing Tasks).
 
+# Features
+1. Google Sign-in
+2. Create lists
+3. Create cards under particular list
+4. Update lists and cards
+5. Reorder lists or cards by dragging them
+6. Change app background
+7. Realtime application
+
 # Front-end
 1. React.js
 2. Axios
