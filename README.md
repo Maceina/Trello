@@ -2,7 +2,7 @@
 
 This is a clone of popular project management application Trello (Listing Tasks).
 
-# Front-end:
+# Front-end
 1. React.js
 2. Axios
 3. Firebase
